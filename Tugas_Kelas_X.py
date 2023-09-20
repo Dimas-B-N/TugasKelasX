@@ -10,12 +10,7 @@ def load_lottieurl(url):
         return None
     return r.json()
 
-def local_css(file_name):
-    with open (file_name) as f:
-        st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
-
 lottie_coding = load_lottieurl("https://lottie.host/dc349099-df43-4896-9145-852272b77317/pbvp2Qsk6C.json")
-
 
 with st.container():   
     st.subheader("Assalamu'alaikum 👋")
