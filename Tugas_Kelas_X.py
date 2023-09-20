@@ -1,16 +1,7 @@
 import requests
 import streamlit as st
-from streamlit_lottie import st_lottie
 
 st.set_page_config(page_title="Dibuat dengan Python",page_icon=":tada:", layout="wide")
-
-def load_lottieurl(url):
-    r = requests.get(url)
-    if r.status_code != 200:
-        return None
-    return r.json()
-
-lottie_coding = load_lottieurl("https://lottie.host/dc349099-df43-4896-9145-852272b77317/pbvp2Qsk6C.json")
 
 with st.container():   
     st.subheader("Assalamu'alaikum 👋")
@@ -43,6 +34,6 @@ with st.container():
              """
         )
     with right_column:
-        st_lottie(lottie_coding, height=500, key="coding")
+    st.write(".")
 with st.container():
     st.write("---")
