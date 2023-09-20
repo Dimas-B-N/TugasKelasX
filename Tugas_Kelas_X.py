@@ -26,8 +26,8 @@ with st.container():
             4. Di Era Digital, banyak orang kehilangan pekerjaan karena kemajuan teknologi mengambil alih hal-hal yang mereka kerjakan, lalu bagaimana sikap kamu menghadapi situasi tersebut ? (Deskripsikan minimal dalam 50 kata)
             5. Bagaimanakah cara berkolaborasi dalam menyelesaikan permasalahan dalam kelompok menjadi lebih efektif dan efisien yang akhirnya dapat menghasilkan solusi terbaik dan tepat waktu ?
             6. Apa perbedaan dari Peran dan Tugas dalam suatu Kelompok ?
-            7. Apa pengertian dan tujuan Berpikir Komputasional dalam kehidupan sehari-hari ? Beri contohnya minimal 4 !
-            8. Jelaskan tentang 4 Pondasi Berpikir Komputasional dan berikan contoh dalam kehidupan sekitarmu !
+            7. Apa pengertian dan tujuan Berpikir Komputasional dalam kehidupan sehari-hari ? Berikan contohnya minimal 4 !
+            8. Jelaskan tentang 4 Pondasi Berpikir Komputasional dan berikan contoh dalam kehidupan di sekitarmu !
             9. Sebutkan dan Jelaskan 4 Pondasi Berpikir Komputasional dalam penyelesaian permasalahan berikut ini :
                 - Menggoreng Pisang
                 - Mencuci Baju
