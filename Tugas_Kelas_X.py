@@ -34,6 +34,6 @@ with st.container():
              """
         )
     with right_column:
-        st.write(" ")
+        st.subheader("Selamat Mengerjakan")
 with st.container():
     st.write("---")
